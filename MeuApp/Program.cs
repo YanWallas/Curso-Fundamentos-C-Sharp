@@ -14,7 +14,7 @@ namespace MeuApp
     //Função principal do programa
     static void Main(string[] args)
     {
-      //Chamdno a funcão
+      //Chamdno a funcão.
       UsandoIF();
       UsandoSwitch();
       UsandoFor();
