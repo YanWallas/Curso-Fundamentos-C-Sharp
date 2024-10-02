@@ -1,0 +1,13 @@
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\dev\Curso-Fundamentos-C-Sharp\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
