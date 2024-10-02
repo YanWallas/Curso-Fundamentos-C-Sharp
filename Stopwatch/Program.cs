@@ -7,12 +7,11 @@ namespace Stopwatch
     {
         static void Main(string[] args)
         {
-            Start();
+            Start(6);
         }
 
-        static void Start()
+        static void Start(int time)
         {
-            int time = 10;
             int currenTime = 0;
 
             while (currenTime != time)
@@ -22,6 +21,10 @@ namespace Stopwatch
                 Console.WriteLine(currenTime);
                 Thread.Sleep(1000);//a cada interação, atrasa 1seg a tela.
             }
+
+            Console.Clear();
+            Console.WriteLine("Stopwatch finalizado..");
+            Thread.Sleep(2500);
         }
 
     }
