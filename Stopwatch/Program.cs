@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Stopwatch
 {
@@ -16,8 +17,10 @@ namespace Stopwatch
 
             while (currenTime != time)
             {
+                Console.Clear();
                 currenTime++;
                 Console.WriteLine(currenTime);
+                Thread.Sleep(1000);//a cada interação, atrasa 1seg a tela.
             }
         }
 
