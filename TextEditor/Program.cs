@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Threading;
 
 namespace TextEditor
@@ -47,9 +48,24 @@ namespace TextEditor
             }
             while (Console.ReadKey().Key != ConsoleKey.Escape);// Enquanto o usuario nao aperta ESC
 
-            Console.Write(text);
+            Salvar(text);
 
+        }
 
+        static void Salvar(string text)
+        {
+            Console.Clear();
+            Console.WriteLine(" Qual caminho salvar o arquivo?");
+            var path = Console.ReadLine();
+
+            using (var file = new StreamWriter(path))
+            {
+                file.Write(text);
+            }
+
+            Console.WriteLine($"Arquivo {path} salvo com sucesso");
+            Console.ReadLine();
+            Menu();
         }
     }
 }
