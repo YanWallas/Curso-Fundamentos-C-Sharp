@@ -6,6 +6,12 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
+            SobreGuid();
+
+        }
+
+        static void SobreGuid()
+        {
             var id = Guid.NewGuid();//criando um ID (números grande) aleatorio.
             id.ToString();//tranformando em string
 
@@ -15,7 +21,6 @@ namespace MyApp
             //id = new Guid();//Se eu nao passar nada dentro do New guid, gera tudo 0000000.
 
             Console.WriteLine(id.ToString().Substring(0, 8));//pegando apenas os 8 primeiros numeros.
-
         }
     }
 }
