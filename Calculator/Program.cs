@@ -25,7 +25,7 @@ namespace Calculator
             Console.WriteLine("4 - Multiplicação");
             Console.WriteLine("5 - Sair");
 
-            Console.WriteLine("------------------");
+            Console.WriteLine("--------------------");
             Console.WriteLine("Selecione uma opção: ");
             short res = short.Parse(Console.ReadLine());
 
