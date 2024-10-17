@@ -9,7 +9,9 @@ namespace MyApp
     {
       //SobreGuid();
       //InterpolacaoString();
-      ComparacaoString();
+      //ComparacaoString();
+      //ComecaCom();
+      Iguais();
 
     }
 
@@ -54,7 +56,26 @@ namespace MyApp
       Console.WriteLine(texto1.Contains("teste"));//esse texto contem a palavra teste.
       Console.WriteLine(texto1.Contains("Teste"));//Diferente pelo 'T' maiusculo.
       Console.WriteLine(texto1.Contains("Teste", StringComparison.OrdinalIgnoreCase));//Vai ignorar a letra maiuscula ou minuscula e comparar a string.
-
     }
+
+    static void ComecaCom() //StartsWith
+    {
+      var texto = "Este texto é teste";
+      Console.WriteLine(texto.StartsWith("Este"));//Começa com 'Este' maiusculo = true
+      Console.WriteLine(texto.StartsWith("este"));//Começa com 'este' minusculo = false
+      Console.WriteLine("-------------------------");
+
+      Console.WriteLine(texto.EndsWith("Teste"));//Termina com 'Teste' maiusculo = false
+      Console.WriteLine(texto.EndsWith("teste"));//Termina com 'teste' minusculo = true
+    }
+
+    static void Iguais() //Equals
+    {
+      var texto = "Este texto é igual";
+      Console.WriteLine(texto.Equals("Este texto é igual"));//Se o texto é igual = true
+      Console.WriteLine(texto.Equals("este texto é igual"));//com minusculo nao é igual = false
+      Console.WriteLine("-------------------------");
+    }
+
   }
 }
