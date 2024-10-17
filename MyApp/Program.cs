@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml;
 
 namespace MyApp
 {
@@ -6,7 +7,8 @@ namespace MyApp
   {
     static void Main(string[] args)
     {
-      SobreGuid();
+      //SobreGuid();
+      InterpolacaoString();
 
     }
 
@@ -21,6 +23,23 @@ namespace MyApp
       //id = new Guid();//Se eu nao passar nada dentro do New guid, gera tudo 0000000.
 
       Console.WriteLine(id.ToString().Substring(0, 8));//pegando apenas os 8 primeiros numeros.
+    }
+
+    static void InterpolacaoString()
+    {
+      var price = 10.2;
+      var texto = "O preço do produto é " + price + " (apenas na promoção)";//interpoloção de string (juntando tipos diferentes na string)
+      Console.WriteLine(texto);
+      Console.WriteLine("-------------------------");
+
+      //OUTRA FORMA
+      var texto1 = string.Format("O valor é {0} (apenas na promoção)", price);
+      Console.WriteLine(texto1);
+      Console.WriteLine("-------------------------");
+
+      //OUTRA FORMA
+      var texto2 = $"O preço é {price}";
+      Console.WriteLine(texto2);
     }
   }
 }
