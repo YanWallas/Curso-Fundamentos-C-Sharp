@@ -8,7 +8,8 @@ namespace MyApp
     static void Main(string[] args)
     {
       //SobreGuid();
-      InterpolacaoString();
+      //InterpolacaoString();
+      ComparacaoString();
 
     }
 
@@ -40,6 +41,20 @@ namespace MyApp
       //OUTRA FORMA
       var texto2 = $"O preço é {price}";
       Console.WriteLine(texto2);
+    }
+
+    static void ComparacaoString()
+    {
+      var texto = "Testando";
+      Console.WriteLine(texto.CompareTo("Testando"));//Igual da 0
+      Console.WriteLine(texto.CompareTo("testando"));//Diferente da 1
+      Console.WriteLine("-------------------------");
+
+      var texto1 = "Este texto é teste";
+      Console.WriteLine(texto1.Contains("teste"));//esse texto contem a palavra teste.
+      Console.WriteLine(texto1.Contains("Teste"));//Diferente pelo 'T' maiusculo.
+      Console.WriteLine(texto1.Contains("Teste", StringComparison.OrdinalIgnoreCase));//Vai ignorar a letra maiuscula ou minuscula e comparar a string.
+
     }
   }
 }
