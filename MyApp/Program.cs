@@ -11,7 +11,8 @@ namespace MyApp
       //InterpolacaoString();
       //ComparacaoString();
       //ComecaCom();
-      Iguais();
+      //Iguais();
+      Indices();
 
     }
 
@@ -75,6 +76,13 @@ namespace MyApp
       Console.WriteLine(texto.Equals("Este texto é igual"));//Se o texto é igual = true
       Console.WriteLine(texto.Equals("este texto é igual"));//com minusculo nao é igual = false
       Console.WriteLine("-------------------------");
+    }
+
+    static void Indices() {
+      var texto = "Este texto é um teste";
+      Console.WriteLine(texto.IndexOf("é")); // Ela esta na posição 11 dos caracteres.
+      Console.WriteLine(texto.IndexOf("um")); // Vai pegar a primeira posição do caracter (é 13)
+      Console.WriteLine(texto.LastIndexOf("s"));// #LastIndexOf - Ultimo index que ele encontrar do caracter (é 18)
     }
 
   }

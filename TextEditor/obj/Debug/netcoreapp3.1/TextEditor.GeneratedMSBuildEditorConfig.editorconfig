@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = TextEditor
-build_property.ProjectDir = /home/yan/dev/Curso-Fundamentos-C-Sharp/TextEditor/
+build_property.ProjectDir = c:\dev\Curso-Fundamentos-C-Sharp\TextEditor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
