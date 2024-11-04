@@ -1,0 +1,15 @@
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/MyApp
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/ref/MyApp.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache

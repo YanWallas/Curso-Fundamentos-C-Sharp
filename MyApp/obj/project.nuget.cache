@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOyE/OE4YoDdmGhD+QJfG86rfFc2r/oL+gj/qjFlpal/olm39zbR1qVtBvgJyFqLl5YaWx/NtGI6azoFx1xdXA==",
+  "dgSpecHash": "bzeWVKnbb19rfXQ5VX22w1GSgrRiWEQeBTrkL+LmxxUGs23kgHbkeTPHYqNJpxUUE5es1OMLPQ8NZyQASjSdTg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj",
+  "projectFilePath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
