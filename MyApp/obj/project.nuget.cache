@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X307i7N/yZU=",
+  "dgSpecHash": "A0trO5GUjuKOxUStKcXtV5L+em6TxvUBnzoyWF7XI2LsYyzeXZkzXqroWdJzvpjLkE6jT/Hxak7UQYKFTeY2Vg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Wallas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\Wallas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\Wallas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
-    "C:\\Users\\Wallas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

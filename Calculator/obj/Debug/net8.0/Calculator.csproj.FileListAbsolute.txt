@@ -1,0 +1,15 @@
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/bin/Debug/net8.0/Calculator
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/yan/dev/Curso-Fundamentos-C-Sharp/Calculator/obj/Debug/net8.0/ref/Calculator.dll

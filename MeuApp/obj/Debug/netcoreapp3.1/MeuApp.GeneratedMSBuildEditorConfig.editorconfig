@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = MeuApp
-build_property.ProjectDir = c:\dev\Curso-Fundamentos-C-Sharp\MeuApp\
+build_property.ProjectDir = /home/yan/dev/Curso-Fundamentos-C-Sharp/MeuApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj": {}
+    "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj": {
+    "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\MyApp.csproj",
-        "packagesPath": "C:\\Users\\Wallas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Curso-Fundamentos-C-Sharp\\MyApp\\obj\\",
+        "projectPath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/MyApp.csproj",
+        "packagesPath": "/home/yan/.nuget/packages/",
+        "outputPath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/MyApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Wallas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/yan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,16 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -53,30 +48,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.35, 6.0.35]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
