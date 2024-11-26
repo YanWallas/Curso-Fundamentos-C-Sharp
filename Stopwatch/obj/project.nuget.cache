@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9YApzMgxG7aL19uwqMKn+znDzLr/YkyFufrC7oAmDaYaRikGa1XL7W/wcmvlakUhl83RPeqgHYezxeaas+Sqjw==",
+  "dgSpecHash": "cHwNNr5Mk80=",
   "success": true,
-  "projectFilePath": "C:\\dev\\Curso-Fundamentos-C-Sharp\\Stopwatch\\Stopwatch.csproj",
+  "projectFilePath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/Stopwatch/Stopwatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
