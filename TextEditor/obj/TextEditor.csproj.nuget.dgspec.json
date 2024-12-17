@@ -13,7 +13,6 @@
         "packagesPath": "/home/yan/.nuget/packages/",
         "outputPath": "/home/yan/dev/Curso-Fundamentos-C-Sharp/TextEditor/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/home/yan/.nuget/NuGet/NuGet.Config"
         ],
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
